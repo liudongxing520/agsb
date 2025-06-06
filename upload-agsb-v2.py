@@ -34,8 +34,9 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "streamlit"         # 用户名
 UUID = "c2d214de-bd93-4249-833c-ee5b403948e7"                     # UUID，留空则自动生成
 PORT = 49996                   # Vmess端口，留空或0则自动生成
-DOMAIN = "ac.laodada123.cloudns.ch"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiZTgyNjM4M2YyZGY5MjM4NmE4ZDNhMjc1YWY1MzQ5NWEiLCJ0IjoiZjdlYjE1OTctYWNkZi00YjA1LWE4NTQtYTJkZWViNDI4Y2FjIiwicyI6IlpUSm1NREprWlRRdE9XSm1OaTAwT0RNeExUZ3hNemN0WWpJeU9XTmpORGxqTnpjeSJ9"
+DOMAIN = "as00.huaqianle.ggff.net"                   # 域名，留空则自动获取
+CF_TOKEN = "eyJhIjoiZTgyNjM4M2YyZGY5MjM4NmE4ZDNhMjc1YWY1MzQ5NWEiLCJ0IjoiNGFmMmM0NGItOWYzMC00OTlkLTgxZWItNTE3MWU1MTA4NGRmIiwicyI6Ik1tUXhaV1V5TTJJdE5qTXlaUzAwT0dVeExXRmtNRGN0TlRjM01HUmxNVEl5TldWbCJ9"
+
                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
